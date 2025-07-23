@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/CMakeFiles/bootloader
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/CMakeFiles/bootloader.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/CMakeFiles/bootloader-complete.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
