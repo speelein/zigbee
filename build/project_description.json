@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "zigbee",
-    "project_version":    "1",
+    "project_version":    "e87f004-dirty",
     "project_path":       "/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee",
     "idf_path":           "/home/gunter/esp/v5.5-rc1/esp-idf",
     "build_dir":          "/mnt/nvme/SSD/Daten/Visual-Studio/C-6/zigbee/build",

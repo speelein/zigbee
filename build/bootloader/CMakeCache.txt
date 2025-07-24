@@ -124,7 +124,7 @@ CMAKE_INSTALL_PREFIX:PATH=/usr/local
 CMAKE_LINKER:FILEPATH=/home/gunter/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-ld
 
 //Program used to build from build.ninja files.
-CMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/ninja
+CMAKE_MAKE_PROGRAM:FILEPATH=/home/gunter/.espressif/esp-matter/connectedhomeip/connectedhomeip/.environment/cipd/packages/pigweed/ninja
 
 //Flags used by the linker during the creation of modules during
 // all build types.
